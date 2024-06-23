@@ -48,6 +48,7 @@ body.show-chatbot .chatbot-toggler span:last-child {
 }
 
 body {
+    /* image */
     background-image: url("/src/img/ingsistemas.cloud.ufps.edu.co.png");
 }
 
